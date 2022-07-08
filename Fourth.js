@@ -2,12 +2,12 @@ import React from 'react';
 import {View, Text} from 'react-native';
 import styles from './styles';
 
-const Second = () => {
+const Fourth = () => {
     return(
         <View style={styles.container}>
-            <Text style={styles.content}>Second Content</Text>
+            <Text style={styles.content}>Fourth Content</Text>
         </View>
     )
 }
 
-export default Second;
+export default Fourth;
